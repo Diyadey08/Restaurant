@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Alice Johnson",
+    "review": "Amazing food and great ambiance. Highly recommended!",
+    "rating": 5,
+    "date": "2024-12-10"
+  },
+  {
+    "name": "Bob Smith",
+    "review": "Good service, but the food was average.",
+    "rating": 3,
+    "date": "2024-12-11"
+  },
+  {
+    "name": "Carol Lee",
+    "review": "Loved the desserts. Will visit again.",
+    "rating": 4,
+    "date": "2024-12-12"
+  },
+  {
+    "name": "David Brown",
+    "review": "The food was too spicy for my taste.",
+    "rating": 2,
+    "date": "2024-12-13"
+  },
+  {
+    "name": "Ella Martinez",
+    "review": "Everything was perfect. Will bring my friends next time.",
+    "rating": 5,
+    "date": "2024-12-14"
+  },
+  {
+    "name": "Frank Wilson",
+    "review": "Overpriced for the quality of food offered.",
+    "rating": 2,
+    "date": "2024-12-15"
+  },
+  {
+    "name": "Grace Kim",
+    "review": "Decent place for a quick meal. Nothing extraordinary.",
+    "rating": 3,
+    "date": "2024-12-16"
+  },
+  {
+    "name": "Harry Garcia",
+    "review": "Friendly staff and excellent food. Highly satisfied!",
+    "rating": 5,
+    "date": "2024-12-17"
+  },
+  {
+    "name": "Isla Davis",
+    "review": "Portions were small, but the taste was great.",
+    "rating": 4,
+    "date": "2024-12-18"
+  },
+  {
+    "name": "Jack White",
+    "review": "Terrible service. I had to wait an hour for my food.",
+    "rating": 1,
+    "date": "2024-12-12"
+  },
+  {
+    "name": "Karen Lewis",
+    "review": "Lovely place for a family dinner. Kids enjoyed it too.",
+    "rating": 4,
+    "date": "2024-12-13"
+  },
+  {
+    "name": "Leo Walker",
+    "review": "A hidden gem. Food is absolutely delightful.",
+    "rating": 5,
+    "date": "2024-12-14"
+  },
+  {
+    "name": "Mia Hall",
+    "review": "The place was overcrowded, and the food was cold.",
+    "rating": 2,
+    "date": "2024-12-15"
+  },
+  {
+    "name": "Noah Young",
+    "review": "Affordable and tasty. Great value for money.",
+    "rating": 4,
+    "date": "2024-12-16"
+  },
+  {
+    "name": "Olivia Allen",
+    "review": "I didn't enjoy the experience. Wouldn't recommend.",
+    "rating": 1,
+    "date": "2024-12-17"
+  }
+]
